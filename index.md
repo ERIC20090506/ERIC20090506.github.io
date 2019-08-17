@@ -1,4 +1,4 @@
-## Welcome to 的房间许久的肌肤
+## 欢迎来到ERIC的公园
 
 You can use the [editor on GitHub](https://github.com/ERIC20090506/ERIC20090506.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
