@@ -1,9 +1,5 @@
 # 欢迎来到 ERIC 的公园
-
-You can use the [editor on GitHub](https://github.com/ERIC20090506/ERIC20090506.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.You can do anything in it.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+欢迎您来到“ERIC公园”。您可以做任何事在这个网站里。
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
